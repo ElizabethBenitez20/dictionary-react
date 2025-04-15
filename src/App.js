@@ -17,6 +17,7 @@ function App() {
               <a
                 href="https://github.com/ElizabethBenitez20/dictionary-react"
                 target="_blank"
+                rel="noopener noreferrer"
                 title="GitHub"
               >
                 <i class="fa-brands fa-github fa-2x"></i>
@@ -24,6 +25,7 @@ function App() {
               <a
                 href="https://shecodes-dictionary-react.netlify.app/"
                 target="_blank"
+                rel="noopener noreferrer"
                 title="Netlify"
               >
                 <i class="fa-solid fa-globe fa-2x"></i>
@@ -31,6 +33,7 @@ function App() {
               <a
                 href="https://www.linkedin.com/in/elizabeth-benitez-81a5b7275/"
                 target="_blank"
+                rel="noopener noreferrer"
                 title="LinkedIn"
               >
                 <i class="fa-brands fa-linkedin fa-2x"></i>
