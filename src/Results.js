@@ -12,9 +12,6 @@ export default function Results(props) {
           <Phonetic phonetic={props.results.phonetic} />
         )}
         {props.results.meanings.map((meaning, index) => (
-          <Meaning key={index} meaning={meaning} />
-        ))}
-        {props.results.meanings.map((meaning, index) => (
           <div key={index}>
             <Meaning meaning={meaning} />
           </div>

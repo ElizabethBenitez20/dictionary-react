@@ -21,11 +21,12 @@
 
 .App-footer {
   text-align: center;
-  margin: 30px 0;
+  margin: 20px 0;
   background: #d09d37c1;
   color: #704f08;
   font-weight: bold;
   padding: 10px;
+  border-radius: 6px;
 }
 
 i {
