@@ -5,4 +5,18 @@
 .App-footer {
   text-align: center;
   margin: 30px 0;
+  background: #d09d37c1;
+  color: #704f08;
+  font-weight: bold;
+  padding: 10px;
+}
+
+i {
+  color: #704f08;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 50px;
+  font-weight: bold;
 }
