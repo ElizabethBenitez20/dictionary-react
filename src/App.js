@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <h1 className="text-center">Dictionary</h1>
+          <h1 className="d-flex justify-content-center">Dictionary</h1>
         </header>
         <main>
           <Dictionary defaultKeyword="hello" />
